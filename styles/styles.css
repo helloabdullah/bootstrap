@@ -1,0 +1,36 @@
+
+
+
+
+#section-1 {
+
+    background-image: url(/architect1.jpg);
+    background-size: cover;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+}
+#sec-1{
+   background-color: rgba(0, 0, 0, 0.5);
+    padding: 8px 12px;
+    letter-spacing: 2px;
+
+} 
+.con-1{
+   /* border: 1px solid ; */
+   background-color: lightgray;
+   text-align: center;
+   padding: 4px ;
+   border-radius: 4px;
+}
+.con-1:hover{
+      cursor: pointer;
+      background-color: gray;
+      padding: 6px;
+}
+ .btn-1{
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+
+}
